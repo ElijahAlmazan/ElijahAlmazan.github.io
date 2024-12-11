@@ -1,7 +1,7 @@
 
 # Elijah Almazan's Portfolio
 
-Hello I am a computer engineer major at CSUF and I plan on graduating on 2028
+Hello I am a computer engineer major at CSUF and I plan on graduating on 2028 Here is my github profile link https://github.com/ElijahAlmazan
 
 ## Favorite CPSC 120L Labs
 
